@@ -1,1 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            Personal Portfolio
+        </title>
+    </head>
+    <body>
+        <center>
+            <h1 style="color: blue; background-color: aqua;">
+                Mahum Azim
+            </h1>
+        </center>
+        <h3> NJIT, ma2722, Architecture </h3>
+        <p>
+            My name is Mahum Azim and I am a first-year student majoring in Architecture. <br> I love to paint and draw. <br> I really enjoy playing soccer and almost any other sport.
+        </p>
+
+        <a href="https://canvas.njit.edu/">Google.com</a>a> <br>
+        <img src="image 1.jpg" 
+
+    </body>
+</html>
 
