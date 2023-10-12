@@ -1,0 +1,51 @@
+th{
+    color:gray;background-color: rgb(187.187,187);
+    width: 300px;
+    border: 2px solid black;
+    /* margin-top: 100px;
+    margin-left: 100px; */
+    margin: 100px 0px 0px 100px;
+    padding: 10px
+}
+
+td{
+    border: 2px solid black;
+    padding: 10px;
+}
+
+table{
+    margin: 100px 100px 100px 100px;
+}
+
+.image 2{
+
+    border-style: dashed; border-color: red;
+    padding: 30px;
+    width: 150px;
+    height: 150px;
+    /*widht: 10%; height: 10%;*/
+    /*width: 2in; height: 2in;*/
+    /*width: 1pt; height: 1pt;*/ 
+}
+
+
+.image 3{
+    border-style: dashed; border-color: red;
+    padding: 30px;
+    width: 150px;
+    height: 150px;
+    /*widht: 10%; height: 10%;*/
+    /*width: 2in; height: 2in;*/
+    /*width: 1pt; height: 1pt;*/ 
+}
+
+image 4{
+    border-style: dashed; border-color: red;
+    padding: 30px;
+    width: 150px;
+    height: 150px;
+    /*widht: 10%; height: 10%;*/
+    /*width: 2in; height: 2in;*/
+    /*width: 1pt; height: 1pt;*/ 
+}
+
