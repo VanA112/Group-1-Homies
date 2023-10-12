@@ -1,0 +1,38 @@
+h1{
+    color:BLUE;
+    }
+th{
+    background-color: lightgray;
+}    
+    
+table{
+        
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+}
+
+h{
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;  
+}
+
+th{
+    border-width: 2px;
+border-style: solid;
+border-color: black;
+padding: 10px;
+}
+
+
+td{
+    /border-width: 2px;
+border-style: solid;
+border-color: black;
+padding: 10px;
+}
