@@ -1,0 +1,56 @@
+.styled-table { 
+    width: 300px;
+    border: 2px solid black;
+    /* margin-top: 100px;
+    margin-left: 100px; */
+    margin: 100px 0px 0px 100px;
+    padding: 10px;
+}
+
+.styled-table thead tr {
+
+    background-color: lightgray;
+}
+
+td{
+    border: 2px solid black; 
+    padding: 10px;
+}
+
+
+table{
+    margin: 100px 100px 100px 100px;
+}
+
+.Margarita.jpg{
+ 
+    border-style: dashed; border-color: red;
+    padding: 30px;
+    width: 150px; 
+    height: 150px;
+    /*width: 10%; height: 10%;*/
+    /*width: 2in; height: 2in;*/
+    /*width: 1pt; height: 1pt;*/
+}
+
+.Periwinkle.jpg{
+    
+    border-style: dashed; border-color: red;
+    padding: 30px;
+    width: 150px; 
+    height: 150px;
+    /*width: 20%; height: 20%;*/
+    /*width: 2in; height: 2in;*/
+    /*width: 1pt; height: 1pt;*/
+}
+
+.Tulip.jpg{
+    
+    border-style: dashed; border-color: red;
+    padding: 30px;
+    width: 150px; 
+    height: 150px;
+    /*width: 20%; height: 20%;*/
+    /*width: 2in; height: 2in;*/
+    /*width: 1pt; height: 1pt;*/
+}
