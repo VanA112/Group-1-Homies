@@ -2,7 +2,7 @@
 <html>
 <head>
 <title>
-       Eman Abdelrahman's personal portfolio
+       Mahum Azim's personal portfolio
 </title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -37,20 +37,16 @@
 <body>
 
 <h1 style="color: red; background-color: black;">
-    Eman F Abdelrahman 
+    Mahum Azim 
     <styl>
         
     </styl>
 </h1>
 <h3>
-    NJIT efa9 Architecture
+    NJIT ma2722 Architecture
 </h3>
 <p>
-    I am of Egyptian origin.
-    <br>
-    I love reading and all kinds of arts.
-    <br>
-    I studied architecture so that I could design affordable homes that would withstand storms and hurricanes.
+     My name is Mahum Azim and I am a first-year student majoring in Architecture. <br> I love to paint and draw. <br> I really enjoy playing soccer and almost any other sport.
 </p>
 
 <img src="C:\Users\emy72\Desktop\cs104\QPKD0999.JPG">
@@ -61,9 +57,9 @@
         <th>Skills</th>
     </tr>
     <tr>
-        <td>Architecture and design</td>
-        <td>Arabic language teacher</td>
-        <td>Handmade jewelery design</td>
+        <td>Architecture</td>
+        <td>1st semester</td>
+        <td>Crafting</td>
     </tr>
     
         
@@ -98,14 +94,14 @@
     </thead>
     <tbody>
         <tr>
-            <td>2nd year, NJIT</td>
-            <td>10 years experience</td>
-            <td>8 years experience</td>
+            <td>Middle School</td>
+            <td>3 years</td>
+            <td>Arts</td>
         </tr>
         <tr>
-            <td>Architecture and design</td>
-            <td>Arabic language teacher</td>
-            <td>Handmade jewelery design</td>
+            <td>Architecture</td>
+            <td>Knows Spanish</td>
+            <td>Drawing</td>
         </tr>
     </tbody>
     <p class="styled-paragraph">WELCOME TO MY WEBSIDE</p>
