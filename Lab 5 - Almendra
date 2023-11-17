@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+   <link rel="stylesheet" href="CSS- Almendra">
+   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css"
+       integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65"
+       crossorigin="anonymous">
+   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
+       integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4"
+       crossorigin="anonymous"></script>
+
+    <title style="color: rgb(248, 24, 110);">
+       
+
+    </title>
+</head>
+
+<body>
+    <h1 style="color: lightpink; background-color: rgb(92, 97, 52);">
+        Almendra Alamo Personal Portfolio
+    </h1>
+    <h2></h2>
+
+    <h3 style="color: rgb(141, 82, 118); background-color: rgb(127, 166, 173);">NJIT <br> aia42 <br> Bachelor of
+        Architecture </h3>
+
+    <hr>
+    <p style="color: rgb(138, 202, 112);">
+        I'm a first-year student at New Jersey Institute of Technology. I'm studying in<br>the Hillier College of
+        Architecture and Design. I love making bracelets, painting,<br>listening to music and spending time with my
+        family. I also like exploring new places<br>and making desserts.</p>
+    <br>
+
+    <a href="https://canvas.njit.edu/">Canvas</a>
+
+    <img style="width: 100px; height: 100px;" src="images/fish.jpg">
+</body>
+
+
+<hr>
+
+
+<table class="table table-bordered table-striped">
+
+    <thead>
+        <tr>
+            <th>Education</th>
+            <th>Experience</th>
+            <th>Skills</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>College</td>
+            <td>2 years</td>
+            <td>Problem Solving</td>
+        </tr>
+    </tbody>
+</table>
+<hr>
+
+<div>
+    <ul>
+        <li><a href="#">ARCH 110</a></li>
+        <li><a href="#">MATH 107</a></li>
+        <li><a href="#">ENG 101</a></li>
+        <li><a href="#">ARCH 195</a></li>
+        <li><a href="#">CS104</a></li>
+    </ul>
+</div>
+
+<div style="margin-top: 100px;">
+    <form>
+        <label for="Username">Username</label>
+        <input type="text" placeholder="Username"> <br>
+        <label for="text">First Name</label>
+        <input type="text" placeholder="First Name"> <br>
+        <label for="text">Last Name</label>
+        <input type="text" placeholder="Last Name"> <br>
+        <br>
+        <input type="submit">
+        <br>
+        <input type="radio" name="course"> Math
+        <input type="radio" name="course"> Computer Science
+        <input type="radio" name="course"> Architecture<br>
+
+
+        <input type="checkbox"> Math
+        <input type="checkbox"> Computer Science
+        <input type="checkbox"> Architecture
+
+        <input type="file">
+        <input type="submit">
+
+
+    </form>
+</div>
+<div>
+    <img style="height: 100px;width: 100px;" src="images/Tulip.jpg" class="img1">
+
+    <img style="height: 100px;width: 100px;" src="images/Periwinkle.jpg" class="img2">
+
+    <img style="height: 100px;width: 100px;" src="images/Margarita.jpg" class="img3">
+</div>
+<p style="color: rgb(228, 176, 65);">
+    Making desserts is totally cool. Whether it's baking cookies, whipping up a cake,<br> or creating a fancy dessert
+    masterpiece, there's something so satisfying about creating something sweet and delicious.<br>Plus, the best part
+    is getting to enjoy the fruits of your labor and share them with friends and family.
+</p>
+<br>
+<style>
+    /*Njit parking*/
+    a: :visited {
+        color: gray;
+    }
+
+    /*Njit Bursar*/
+    a: :hover {
+        color: red;
+    }
+
+    /*Njit registrar*/
+    a: :active {
+        color: orange;
+    }
+</style>
+<UL>
+    <li> <a class="njitlink1" href="https://njit.edu/bursar/">Njit Bursar</a> </li>
+    <li> <a class="njitlink2" href="https://www.njit.edu/parking/parking-0">Njit parking</a> </li>
+    <li><a class="njitlink3" href="https://www.njit.edu/registrar/">Njit registrar</a> </li>
+</UL>
+
+<div class="dropdown">
+    <button type="button" class="btn btn-primary dropdown-toggle" data-bs-toggle="dropdown">
+        Dropdown button
+    </button>
+    <ul class="dropdown-menu">
+        <li><a class="dropdown-item" href="https://njit.edu/bursar/">Njit Bursar</a> </li>
+        <li><a class="dropdown-item" href="https://www.njit.edu/parking/parking-0">Njit parking</a> </li>
+        <li><a class="dropdown-item" href="https://www.njit.edu/registrar/">Njit registrar</a> </li>
+    </ul>
+</div>
+
+<div>
+   <button type="button" class="btn btn-primary" data-bs-toggle="collapse" data-bs-target="#demo">Simple collapsible</button>
+   <div id="demo" class="collapse">
+    The betta fish is a very special specimen, which adds a fascinating note of color to any aquarium.
+   </div>
+</div>
+
+</body>
+
+</html>
